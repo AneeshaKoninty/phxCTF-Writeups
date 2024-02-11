@@ -1,0 +1,3 @@
+For this challenge, “ergq qx emle uhi hy cpux zvxggi golpl” is the encrypted message, and “baguette” is the key. 
+The title was meant as a hint as to what cipher the message was encrypted in: the Vigenere cipher, which is a French cipher originally believed to be unbreakable. 
+After putting the message and key into a Vigenere decoder, you would decrypt the flag to be: “draw me like one of your french girls”
