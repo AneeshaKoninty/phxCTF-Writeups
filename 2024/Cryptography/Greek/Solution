@@ -1,0 +1,5 @@
+Greek:
+For this challenge: “WORAV·RE·IR·SR·” is the encrypted message
+The title hints towards the cipher used, the Scytale cipher, which is a famous greek cipher
+You would put the message into a Scytale decoder, using 5 as the number of turns of the band, getting the answer: “WARISOVERRR····”, which as indicated by the question, would be inputted as: “WARISOVERRR” for your final flag
+This problem may have had some difficulties in figuring out how many turns there were of the band, “5”; some decoders had it preset with 5, however, others didn’t. in the future, we will try to provide some hint towards it, unless it is an entirely fair guess and check based problem
