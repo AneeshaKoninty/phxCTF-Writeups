@@ -1,0 +1,3 @@
+“i geanvmii tcgttdee” is the encrypted message
+The title was meant as a hint as to what cipher the message was encrypted in: The Rail Fence cipher, and “7” refers to the number of rails
+After putting the message, and the number of rails as “7”, into a Rail Fence decoder , you would decrypt the flag to be: “i am getting evicted”
