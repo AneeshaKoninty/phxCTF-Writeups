@@ -1,0 +1,6 @@
+sees 66666666666666666666666666666666666666666666:
+
+For this, “41369997e995e0f69c506be7290c0beb74b73f6024b536228a7652a1b27be98d” was the encrypted message, and “no no no no no” was the key
+The title was meant to hint that the message was encrypted using the “RC6” cipher, which after searching “sees 6 cipher”, comes up as the second result. 
+After decoding the message using an RC6 decoder, you would find the flag, “will you be my valentine”
+It was originally intended to be named “Ron sees 66666666666666666666666666666666666666666666666”, hinting towards the creator of the cipher, however, it was changed in order to make the challenge a bit more difficult. In the future, we will try to make the hint more clear
