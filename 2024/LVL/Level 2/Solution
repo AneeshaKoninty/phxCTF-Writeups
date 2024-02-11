@@ -1,0 +1,6 @@
+The instagram has a post of pancakes that the challenge asks you to look into.
+Run the steghide(a stegonography tool) command below:
+steghide extract -sf pancakes.jpg
+
+This will give a txt file that contains "0x61edcdf5bb737adffe5043706e7c5bb1f1a56eea".
+The crypto wallet address is the flag for Level 2.
