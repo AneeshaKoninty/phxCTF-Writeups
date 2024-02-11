@@ -1,3 +1,3 @@
 # phxCTF-Writeups
 Thanks for competing in phxCTF 2024 in the Phoenix Hackathon!
-This repo has the writeups for all the challenges, email me if any challenges are missing or incorrect.
+This repo is still currently under work, so all of the challenges don't have writeups yet. Everything will be done by 2/25/2024.
