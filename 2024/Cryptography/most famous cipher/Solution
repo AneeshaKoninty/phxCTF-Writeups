@@ -1,0 +1,5 @@
+For this challenge, “- .... .- - .----. ... / -. --- - / - .... . / -- --- ... - / ..-. .- -- --- ..- ... / --- -. . / - .-. -.-- / .- --. .- .. -. / .-- / - .... .. ... / - .. / -- ...- -.-- / .- -.-- .--. .--- .-. .--. ..- -. / ..-. ...- -... / .-.. .... -.-- ... .--. .-.. -.--” is the encrypted message
+Although the title hints about a famous cipher, you were meant to recognize that this message was encrypted in morse code
+After putting the message into a morse code decoder, you would decrypt the message to be: “THAT'S NOT THE MOST FAMOUS ONE TRY AGAIN W THIS TI MVY AYPJRPUN FVB LHYSPLY”
+This indicates that Morse code is not the most famous cipher, and prompts you to decode the remaining message using the most famous cipher: the Caesar cipher
+After putting in the remaining message, “TI MVY AYPJRPUN FVB LHYSPLY” into a Caesar decoder, you would decrypt the flag to be: “mb for tricking you earlier” (lowercase as indicated in the problem)
