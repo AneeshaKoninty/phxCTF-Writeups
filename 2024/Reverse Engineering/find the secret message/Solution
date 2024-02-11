@@ -1,0 +1,6 @@
+find the secret message:
+
+For this challenge, you were prompted to download an executable file, “check.exe”
+Solve this using a Kali Linux VM (or another way to access the terminal), 
+One way to solve this would be to to download the file within the terminal, and enter “./check.exe” in the terminal, which would print the flag, “Banana is the worst fruit”’
+Another way would be to enter “strings check.exe” in the terminal, looking through the results before confirming the out of place “Banana is the worst fruit” as the flag
