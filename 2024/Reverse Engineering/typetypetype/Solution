@@ -1,0 +1,14 @@
+Typetypetype:
+For this challenge, you were prompted to download an executable file, “type.exe”
+Solve this using a Kali Linux VM (or another way to access the terminal), 
+
+2 methods to solve:
+1. download the file within the terminal, and enter “./type.exe” in the terminal, which would display the message “Enter a character”
+- If you enter a letter character (uppercase or lowercase), it would just say, you entered __
+- If you entered a non-letter character (i.e. a number), it would say, you entered __, and display the encrypted flag: “ZmxhZzp7YXJlIHlvdSBzdXJwcmlzZWQgdGhhdCB0aGlzIHdvcmtlZH0=”, which can be recognized as encoded in Base64 based on the equal sign
+- After decoding the message, you get the output “flag:{are you surprised that this worked}”, and enter “are you surprised that this worked” as the flag
+
+2. enter “strings type.exe” in the terminal, looking through the results before confirming the out of place “ZmxhZzp7YXJlIHlvdSBzdXJwcmlzZWQgdGhhdCB0aGlzIHdvcmtlZH0=” as the encrypted string
+- After decoding the message, you get the output “flag:{are you surprised that this worked}”, and enter “are you surprised that this worked” as the flag
+
+
