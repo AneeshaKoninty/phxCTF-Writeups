@@ -1,0 +1,1 @@
+The challenge gives an encrypted zip file, and the password to open is not given. Either you can use fcrackzip to brute force the password, or look on the instagram account for clues. Most people have their pets names as passwords, and @bobjennings123 dog's name is Maggie. This will unencrypt the zip file and give you flag.txt which gives phxCTF{use_b3Tt3r_Passw0rds}
