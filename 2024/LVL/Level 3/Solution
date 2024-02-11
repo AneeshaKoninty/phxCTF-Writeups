@@ -1,0 +1,4 @@
+In Level 2, a cryptocurrency wallet address was the flag. Using that address, the challenge asks for the last transaction made. 
+There are many crypto websites that track transactions, etherscan is the website recommended in the challenge.
+Etherscan shows the last transactions for the wallet address 0x61edcdf5bb737adffe5043706e7c5bb1f1a56eea as 12 days 2 hrs ago which is 2024-01-30.
+2024-01-20 is the flag.
